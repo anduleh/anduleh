@@ -21,7 +21,6 @@ I am a Site Reliability Engineer at Microsoft who works on backend messaging ser
    
 <br>
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/anduleh/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:andrewmyli96@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://www.andrewli.info/"><img src="https://img.shields.io/badge/-resume-003366?style=for-the-badge&logo=iCloud&logoColor=white"></img></a>
 <br>
