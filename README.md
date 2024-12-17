@@ -12,7 +12,3 @@ I am a Site Reliability Engineer who enjoys experimenting with web technologies.
 - 📂 I’m looking to contribute to open source software
 - ☕ Ask me about philosophy, debate, and coffee
 - 🌎 Everything in the world is connected in some way
-#
-<p align="center">
-   <i>"A ship is safe in harbor, but that's not what ships are for." — William Shedd</i>
-</p>       
